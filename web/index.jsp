@@ -28,10 +28,10 @@
                 </div>
 
                 <a href="#">
-                    <img src="#" id="logo" alt="Księgarnia logo">
+                    <img src="#" id="logo" alt="Bookshop logo">
                 </a>
 
-                <img src="#" id="logoText" alt="księgarnia">
+                <img src="#" id="logoText" alt="bookshop">
             </div>
 
             <div id="indexLeftColumn">
